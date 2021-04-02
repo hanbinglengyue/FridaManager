@@ -2,9 +2,8 @@
 相关原理以及使用技巧见文章：https://bbs.pediy.com/thread-266767.htm
 
 
-下载链接
-链接：https://pan.baidu.com/s/1RkC605xikIAlpS9bPlrc3w
-提取码：p89c
+FridaManager相关下载链接:
+ 链接:https://pan.baidu.com/s/1aq-dXUbEEwL-yzhOgdKzyw 提取码:11aw
 
 
 # 交流体验、获取更多机型支持以及反馈问题可加微信 hanbing1e,进群深入讨论
