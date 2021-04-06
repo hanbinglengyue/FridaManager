@@ -249,4 +249,4 @@ setImmediate(main);
 ```
 app启动后可以在log日志中成功看到app加载的dex以及对应的大小，相关dump保存的dex文件也成功写入到sd卡中。
 ![dumpdex](img/dumpdex.png)
-# 交流体验、获取更多机型支持以及反馈问题可加微信 hanbing1e,进群深入讨论
+# 交流体验、获取更多机型支持以及反馈问题可加微信 hanbing1e,进群深入讨论。百度云盘已上传nexus 5x,nexus 6p,pixel 1的镜像，想要体验的可以下载体验。 链接:https://pan.baidu.com/s/1aq-dXUbEEwL-yzhOgdKzyw 提取码:11aw,需要的可以去下载体验
