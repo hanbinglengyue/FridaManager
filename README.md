@@ -249,4 +249,12 @@ setImmediate(main);
 ```
 app启动后可以在log日志中成功看到app加载的dex以及对应的大小，相关dump保存的dex文件也成功写入到sd卡中。
 ![dumpdex](img/dumpdex.png)
-# 交流体验、获取更多机型支持以及反馈问题可加微信 hanbing1e,进群深入讨论。百度云盘已上传nexus 5x,nexus 6p,pixel 1的镜像，想要体验的可以下载体验。 链接:https://pan.baidu.com/s/1aq-dXUbEEwL-yzhOgdKzyw 提取码:11aw,需要的可以去下载体验
+# 交流体验、获取更多机型支持以及反馈问题可加微信 hanbing1e,进群深入讨论。
+
+#为了让更多人体验到FridaManager带来的快感，这里已经将FridaManager编译成Magisk模块，配合FridaManager管理目标APP和js脚本更为顺滑爽快！（可以配合使用魔改的fridagadget，轻松绕过APP的检测）,下载链接：https://pan.baidu.com/s/1OXQW3T4ENDsfg2GR-Z8zDA 提取码：t1xl 
+## 1、安装Magisk模块
+## 2、使用MagiskManager在线安装riru模块或者直接本地安装riru模块
+## 3、安装完riru模块并重启后，再次进入MagiskManager，本地安装riru-fridamanager模块
+## 4、重启后，手机安装FridaManager APP即可进行app和hook持久化脚本的管理。
+## 注意，如果更新了sd卡中的js hook脚本，在FridaManager中需要重新设置该js脚本，并最好重启下手机，这样更新的js代码才会生效。
+![MagiskModule](img/MagiskModule.png)
