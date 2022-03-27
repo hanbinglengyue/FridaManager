@@ -258,3 +258,8 @@ app启动后可以在log日志中成功看到app加载的dex以及对应的大�
 ## 4、重启后，手机安装FridaManager APP即可进行app和hook持久化脚本的管理。
 ## 注意，如果更新了sd卡中的js hook脚本，在FridaManager中需要重新设置该js脚本，并最好重启下手机，这样更新的js代码才会生效。
 ![MagiskModule](img/MagiskModule.png)
+
+
+#已更新基于Zygisk的fridamanager模块，该模板不再依赖riru模块，直接安装最新版支持Zygisk模式的Magisk模块并开启Zygisk支持即可。同时添加对Android11等高版本的支持，需要的可前往百度云下载体验。
+链接：https://pan.baidu.com/s/16NjV35DpFlxgG94NG1IkSA 
+提取码：1yj2 
